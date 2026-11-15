@@ -3,9 +3,7 @@
 An ASCII parkour + hacking game. You are a rogue AI. Bullets are only data.
 
 playable at:
-```
 [click to play](https://22pixels.itch.io/bulletproof)
-```
 
 | Key | Action |
 |---|---|
