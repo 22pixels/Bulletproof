@@ -1,0 +1,12 @@
+{
+  "name": "root-game",
+  "version": "1.0.0",
+  "description": "ROOT - an ASCII parkour + hacking game. Bullets are only data.",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "start": "python3 -m http.server 8000",
+    "build": "node build.mjs",
+    "test": "node test/levels.js && node test/editor.js && node test/combat.js && node test/bosses.js"
+  }
+}
