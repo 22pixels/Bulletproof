@@ -13,5 +13,4 @@ https://22pixels.itch.io/bulletproof
 | W / Space | jump (hold for height) |
 | S | drop through `=` platforms |
 | Q | bubble (bullet time) |
-| E | use terminal |
-| ESC | disconnect from terminal |
+
